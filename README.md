@@ -56,7 +56,7 @@ make && ./so_long maps/map.ber
 **1. To use the function in your code, simply include its header:**
 
 ```C
-#include "bonus_so_long_bonus.h"
+#include "so_long_bonus.h"
 ```
 
 #### 📋 Testing
