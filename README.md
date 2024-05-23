@@ -64,6 +64,3 @@ make && ./so_long maps/map.ber
 ```shell
 make && ./so_long_bonus maps/mapb.ber
 ```
-> _Or :_
-```shell
-./pipex_bonus "here_doc" <limiter> <cmd1> <cmd2> ... <outfile>
