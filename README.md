@@ -22,9 +22,9 @@
 
 # 💡 Mandatory Part <a name = "m"></a>
 
-> _This program :._
+> _THe goal of the game is:._
 
-	 The goal of the game is to collect all collectibles on a map and reach the exit, while avoiding walls.
+	 To collect all collectibles on a map and reach the exit, while avoiding walls.
 
 ### Requirements
 
