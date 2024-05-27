@@ -42,7 +42,7 @@ The function is written in C language and thus needs the **`gcc` compiler** and 
 ```
 
 #### 📋 Testing
-> _Simply run this command (add as an argument a map from maps with a map...):_
+> _Simply run this command (add as an argument a map from maps):_
 ```shell
 make && ./so_long maps/map.ber 
 ```
@@ -67,7 +67,7 @@ make && ./so_long maps/map.ber
 ```
 
 #### 📋 Testing
-> _Simply run this command (add as an argument a map from maps with a mapb...):_
+> _Simply run this command (add as an argument a map from maps):_
 ```shell
 make bonus && ./so_long_bonus maps/mapb.ber
 ```
