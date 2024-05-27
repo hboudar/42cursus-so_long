@@ -9,7 +9,7 @@
 <div align="center">
   <img src=https://img.itch.zone/aW1nLzEwNDkxNTQ1LmdpZg==/original/k%2BhWls.gif />
 </div>
-<h3 alogn="center">
+<h3 align="center">
 	Resources : https://pixelfrog-assets.itch.io/tiny-swords
 </h3>
 <p align="center">
