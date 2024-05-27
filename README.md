@@ -9,6 +9,9 @@
 <div align="center">
   <img src=https://img.itch.zone/aW1nLzEwNDkxNTQ1LmdpZg==/original/k%2BhWls.gif />
 </div>
+<h3 alogn="center">
+	Resources : https://pixelfrog-assets.itch.io/tiny-swords
+</h3>
 <p align="center">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Cloneg7/so_long?color=lightblue" />
 <img alt="Code language count" src="https://img.shields.io/github/languages/count/Cloneg7/so_long?color=yellow" />
