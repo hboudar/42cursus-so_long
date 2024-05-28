@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-	<code>Resources</code> 
   <img src=https://img.itch.zone/aW1nLzEwNDkxNTQ1LmdpZg==/original/k%2BhWls.gif />
+	<code>Resources</code>
 </div>
 <h3 align="center">
 	https://pixelfrog-assets.itch.io/tiny-swords
