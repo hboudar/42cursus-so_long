@@ -7,6 +7,7 @@
 </p>
 
 <div align="center">
+	<code>Resources</code> 
   <img src=https://img.itch.zone/aW1nLzEwNDkxNTQ1LmdpZg==/original/k%2BhWls.gif />
 </div>
 <h3 align="center">
